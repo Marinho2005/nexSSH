@@ -1,0 +1,22 @@
+# Build CMake
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDEs e arquivos locais
+.idea/
+.vscode/
+compile_commands.json
+
+# Artefatos de execução
+*.log
+core
+
+# Dados privados do OpenSSH
+*.pem
+*.key
+id_*
+known_hosts
+config.bak.*

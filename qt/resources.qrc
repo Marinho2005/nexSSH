@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/icons">
+    <file alias="server.svg">../ui/icons/server.svg</file>
+    <file alias="database.svg">../ui/icons/database.svg</file>
+    <file alias="container.svg">../ui/icons/container.svg</file>
+    <file alias="cloud.svg">../ui/icons/cloud.svg</file>
+    <file alias="debian.svg">../ui/icons/debian.svg</file>
+    <file alias="ubuntu.svg">../ui/icons/ubuntu.svg</file>
+    <file alias="archlinux.svg">../ui/icons/archlinux.svg</file>
+    <file alias="alpinelinux.svg">../ui/icons/alpinelinux.svg</file>
+    <file alias="fedora.svg">../ui/icons/fedora.svg</file>
+    <file alias="centos.svg">../ui/icons/centos.svg</file>
+    <file alias="rockylinux.svg">../ui/icons/rockylinux.svg</file>
+    <file alias="googlecloud.svg">../ui/icons/googlecloud.svg</file>
+    <file alias="digitalocean.svg">../ui/icons/digitalocean.svg</file>
+    <file alias="hetzner.svg">../ui/icons/hetzner.svg</file>
+    <file alias="oracle.svg">../ui/icons/oracle.svg</file>
+    <file alias="amazonaws.svg">../ui/icons/amazonaws.svg</file>
+  </qresource>
+</RCC>
