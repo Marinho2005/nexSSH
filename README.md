@@ -2,6 +2,8 @@
 
 Gerenciador visual de conexões SSH para Linux, com interface nativa em Qt e terminal integrado ao aplicativo.
 
+![Preview do nexSSH](docs/preview.png)
+
 ## Recursos
 
 - Leitura e gerenciamento de conexões do OpenSSH;
